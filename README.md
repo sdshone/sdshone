@@ -3,7 +3,7 @@
 ## I'm a Learner who also knows how to code pretty well.
 
 - 🌱 I’m currently learning Vuejs, Reactjs and Advanced Django concepts
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to sketch and play chess
 
 ### Connect with me:
